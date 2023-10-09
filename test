@@ -1,0 +1,7 @@
+public class mytestclass
+{
+public static void show()
+{
+system.debug("this is just a test calss");
+}
+}
